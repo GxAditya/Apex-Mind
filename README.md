@@ -1,3 +1,8 @@
 # Apex-Mind
+Productivity Tracker Web App
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GxAditya/Apex-Mind)
+# Links
+https://polite-puffpuff-73d2e8.netlify.app/
+
+# Learnings
+How to deploy on netlify
